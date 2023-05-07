@@ -117,7 +117,7 @@ transition: margin 0.15s;
     
  }
  .list--tick{
-    list-style-image: url(../icons/tick.svg);
+    list-style-image: url(/tick.626c29a3.svg);
     padding-left: 3rem;
  }
  .list--tick .list__item{
@@ -275,7 +275,7 @@ font-size: 2.4rem;
     position: relative;
 }
 .plan--popular .card__header::before{
-    content: url(../icons/popular.svg);
+    content: url(/popular.a6fe98f3.svg);
     width: 40px;
     display: inline-block;
     position: absolute;
@@ -621,3 +621,5 @@ grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
         font-size: 1.6rem;
     }
 }
+
+/*# sourceMappingURL=/styles.ce9b3af2.css.map */
